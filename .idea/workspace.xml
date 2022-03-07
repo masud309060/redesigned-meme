@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a61ae0-ae1d-4abb-a6a5-73fd5bce055a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/api/rootApi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/userApi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/rootReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/rootSaga.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/user/userAction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/user/userActionType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/user/userReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/user/userSaga.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +58,7 @@
       <updated>1646592265489</updated>
       <workItem from="1646592266763" duration="77000" />
       <workItem from="1646593483568" duration="1665000" />
-      <workItem from="1646663564037" duration="6872000" />
+      <workItem from="1646663564037" duration="8023000" />
     </task>
     <servers />
   </component>
